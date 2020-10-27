@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TJ Willard Layout 1</string>
+    <string name="creative_juices">Creative Juices</string>
+    <string name="company_mission">We cater to all forms of creativity with multiple consulting experts and mobile applications geared to help the clients fuel their creative juices. - <br> Ms. Teresa Bennett, Chief Creative Officer </string>
+    <string name="company_text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in purus ac nisi volutpat volutpat ac non lectus. Nullam viverra tincidunt ipsum, in sagittis augue pellentesque vitae. Fusce sit amet tellus non ex tempor sodales. Nullam faucibus arcu lacus, eget imperdiet nibh varius ac. Cras id purus dictum, elementum ante vel, dapibus urna. Maecenas ac risus tristique, tincidunt erat mollis, tempor eros. In ac iaculis turpis. Quisque facilisis risus sollicitudin sem gravida tincidunt. Donec lacinia ultricies feugiat."</string>
+    <string name="login">Log In or Sign-Up!</string>
+    <string name="about_company">About Our Company</string>
+    <string name="contact_our_staff">Contact our Staff</string>
+    <string name="download_our_app">download our app</string>
+    <string name="contact_for_appt">Contact Mary Jo to schedule an appointment</string>
+</resources>
